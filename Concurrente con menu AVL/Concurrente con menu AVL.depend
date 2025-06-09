@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1749406448 source:c:\users\crisl\onedrive\documentos\unla\pre final\concurrente con menu avl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+

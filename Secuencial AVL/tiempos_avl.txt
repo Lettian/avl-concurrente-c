@@ -1,0 +1,7 @@
+======== RESUMEN DE TIEMPOS ========
+| Operacion                 | Tiempo (ms) |
+|---------------------------|------------|
+| Insercion                 | 20.0000    |
+| Mostrar (InOrder)         | 1233.0000  |
+| Busqueda                  | 0.0000     |
+| Busqueda + Eliminacion    | 0.0000     |
