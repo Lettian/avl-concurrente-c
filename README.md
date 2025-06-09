@@ -20,13 +20,14 @@ Se realizaron pruebas con volúmenes de:
 10, 100, 1.000, 10.000, 20.000 y 30.000 elementos, usando 4 hilos en la versión concurrente.
 
 🔗 Ver resultados detallados:  
-📄 [casos_prueba_avl.pdf](./casos_prueba_avl.pdf)
+📄 [casos_prueba_avl.pdf](https://github.com/user-attachments/files/20647580/casos_prueba_avl.pdf)
 
 ## 🖥️ Requisitos
 
 - Sistema: Windows 10/11
 - Compilador: MinGW o compatible con Windows API
 - Editor sugerido: Code::Blocks o Visual Studio Code
+de::Blocks o Visual Studio Code
 
 ## 📦 Compilación
 
